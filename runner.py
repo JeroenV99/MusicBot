@@ -21,7 +21,7 @@ if __name__ == "__main__":
     """
     Replace bot_settings with something such as:
 
-    BotSettings("0", token="token_here", prefix=",", ...)
+    BotSettings("0", token="NDU5NDIyMjkwNzQ5MTYxNDgz.Dg-7lw.3CCZLueITsh0T_wDfKPKXeBAPUE", prefix=",", ...)
 
     if you don't have a proper DB set up
     """
